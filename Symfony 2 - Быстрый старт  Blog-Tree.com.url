@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://blog-tree.com/post/2014/06/symfony-2
+[DOC_fb_xdm_frame_http]
+BASEURL=http://static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41
+ORIGURL=http://static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41#channel=ff63f599fa15f3&origin=http%3A%2F%2Fblog-tree.com
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41#channel=ff63f599fa15f3&origin=http%3A%2F%2Fblog-tree.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog-tree.com/post/2014/06/symfony-2
+IDList=
+IconFile=http://static.blog-tree.com/images/ico/favicon.ico
+IconIndex=1

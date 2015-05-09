@@ -1,0 +1,17 @@
+[DEFAULT]
+BASEURL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-—-informacija-ob-apparatnyh-komponentah-kompjutera
+[DEFAULT.A]
+BASEURL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-—-informacija-ob-apparatnyh-komponentah-kompjutera
+[DEFAULT.W]
+BASEURL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-+IBQ--informacija-ob-apparatnyh-komponentah-kompjutera
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-—-informacija-ob-apparatnyh-komponentah-kompjutera
+IDList=
+IconFile=http://www.rootfront.com/img/favicon.ico
+IconIndex=1
+[InternetShortcut.A]
+URL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-—-informacija-ob-apparatnyh-komponentah-kompjutera
+[InternetShortcut.W]
+URL=http://www.rootfront.com/article/11570091/2014-01-03/speccy-+IBQ--informacija-ob-apparatnyh-komponentah-kompjutera

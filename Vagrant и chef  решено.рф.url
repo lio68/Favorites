@@ -1,0 +1,17 @@
+[DEFAULT]
+BASEURL=http://решено.рф/node/241
+[DEFAULT.A]
+BASEURL=http://решено.рф/node/241
+[DEFAULT.W]
+BASEURL=http://+BEAENQRIBDUEPQQ+-.+BEAERA-/node/241
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://решено.рф/node/241
+IDList=
+IconFile=http://xn--e1aayeg3c.xn--p1ai/misc/favicon.ico
+IconIndex=1
+[InternetShortcut.A]
+URL=http://решено.рф/node/241
+[InternetShortcut.W]
+URL=http://+BEAENQRIBDUEPQQ+-.+BEAERA-/node/241

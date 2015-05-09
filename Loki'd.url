@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://yandex.ru/images/search?text=%D0%BA%D0%B0%D1%82%D1%8F%20%D0%BA%D0%BB%D1%8D%D0%BF&redircnt=1431081418.1&img_url=http%3A%2F%2Fimages.vfl.ru%2Fii%2F1361704195%2F1addc4da%2F1822846_m.jpg&pos=3&rpt=simage&pin=1&uinfo=sw-1024-sh-768-ww-1007-wh-673-pd-1-wp-4x3_1024x768
+[DOC_yandex_ad_preview]
+BASEURL=https://yandex.ru/images/static/direct_type_preview.min.html
+ORIGURL=https://yandex.ru/images/static/direct_type_preview.min.html
+[DOC_yandex_ad_stripe]
+BASEURL=https://yandex.ru/images/static/direct_type_stripe.min.html
+ORIGURL=https://yandex.ru/images/static/direct_type_stripe.min.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://images.vfl.ru/ii/1361704195/1addc4da/1822846_m.jpg
+IDList=
+IconFile=http://yastatic.net/islands-icons/_/yGdUclj5J7P1YU-8KYKfuDedrLQ.ico
+IconIndex=1

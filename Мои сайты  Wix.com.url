@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://ru.wix.com/my-account/sites/69815f22-9791-4b08-9e66-7abb2b85e57f
+[DOC#439]
+BASEURL=http://www.youtube.com/embed/l1z1SfApqYg?rel=0&wmode=transparent
+ORIGURL=//www.youtube.com/embed/l1z1SfApqYg?rel=0&wmode=transparent
+[DOC_wixCacheFrame]
+BASEURL=http://sslstatic.wix.com/services/wix-dashboard-app-statics/1.581.0/bower_components/wix-angular/dist/views/cross-storage.html
+ORIGURL=http://sslstatic.wix.com/services/wix-dashboard-app-statics/1.581.0/bower_components/wix-angular/dist/views/cross-storage.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://ru.wix.com/my-account/sites/69815f22-9791-4b08-9e66-7abb2b85e57f
+IDList=
+IconFile=http://www.wix.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://allfreelancers.su/articles/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-symfony-framework/
+[DOC_easyXDM_default3011_provider]
+BASEURL=https://ulogin.ru/stats.html?r=36207&type=panel&xdm_e=https%3A%2F%2Fallfreelancers.su&xdm_c=default3011&xdm_p=1
+ORIGURL=https://ulogin.ru/stats.html?r=36207&type=panel&xdm_e=https%3A%2F%2Fallfreelancers.su&xdm_c=default3011&xdm_p=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://allfreelancers.su/articles/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-symfony-framework/
+IDList=

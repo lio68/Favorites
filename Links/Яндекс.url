@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.yandex.ru/?win=162&clid=2101163
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.yandex.ru/?win=162&clid=2101163
+IDList=
+IconFile=C:\Users\LIO~1.SAN\AppData\Local\MICROS~1\INTERN~1\Services\WWWYAN~2.ICO
+IconIndex=0
