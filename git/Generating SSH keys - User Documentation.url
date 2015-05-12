@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://help.github.com/articles/generating-ssh-keys/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://help.github.com/articles/generating-ssh-keys/
+IDList=
+IconFile=https://help.github.com/assets/images/site/favicon.ico
+IconIndex=1

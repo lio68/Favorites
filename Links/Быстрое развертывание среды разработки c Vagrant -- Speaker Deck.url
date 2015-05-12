@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://speakerdeck.com/akalyaev/bystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+[DOC#63_tweet_this]
+BASEURL=https://platform.twitter.com/widgets/tweet_button.html?text=%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20c%20Vagrant&count=false&url=https%3A%2F%2Fspeakerdeck.com%2Fakalyaev%2Fbystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+ORIGURL=//platform.twitter.com/widgets/tweet_button.html?text=%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20c%20Vagrant&count=false&url=https%3A%2F%2Fspeakerdeck.com%2Fakalyaev%2Fbystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+[DOC#63_facebook_like]
+BASEURL=https://www.facebook.com/plugins/like.php?app_id=249103541794426&send=false&layout=button_count&width=1&show_faces=false&action=like&colorscheme=dark&font&height=21&href=https%3A%2F%2Fspeakerdeck.com%2Fakalyaev%2Fbystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+ORIGURL=//www.facebook.com/plugins/like.php?app_id=249103541794426&send=false&layout=button_count&width=1&show_faces=false&action=like&colorscheme=dark&font&height=21&href=https%3A%2F%2Fspeakerdeck.com%2Fakalyaev%2Fbystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://speakerdeck.com/akalyaev/bystroie-razviertyvaniie-sriedy-razrabotki-c-vagrant
+IDList=
+IconFile=https://speakerdeck.com/favicon.ico
+IconIndex=1

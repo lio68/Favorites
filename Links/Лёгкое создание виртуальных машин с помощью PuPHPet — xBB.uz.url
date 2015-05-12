@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://xbb.uz/dev/Legkoe-sozdanie-virtualnyh-mashin-s-pomoshhju-PuPHPet
+[DOC_xbb_editor_xbb_iframe]
+BASEURL=http://xbb.uz/files/bbcode/area.php
+ORIGURL=area.php
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://xbb.uz/dev/Legkoe-sozdanie-virtualnyh-mashin-s-pomoshhju-PuPHPet
+IDList=
+IconFile=http://xbb.uz/files/favicon.ico
+IconIndex=1
