@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://badyblog.com/nastrojka-debian-s-nulya-apachephpmysql/
+[DOC#425]
+BASEURL=https://www.facebook.com/plugins/like.php?app_id&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F6Dg4oLkBbYq.js%3Fversion%3D41%23cb%3Df8ea262306c02a%26domain%3Dbadyblog.com%26origin%3Dhttp%253A%252F%252Fbadyblog.com%252Ff2a019a3e59e374%26relation%3Dparent.parent&container_width=420&href=http%3A%2F%2Fbadyblog.com%2Fnastrojka-debian-s-nulya-apachephpmysql%2F&locale=en_US&sdk=joey&send=false
+ORIGURL=http://www.facebook.com/plugins/like.php?app_id=&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F6Dg4oLkBbYq.js%3Fversion%3D41%23cb%3Df8ea262306c02a%26domain%3Dbadyblog.com%26origin%3Dhttp%253A%252F%252Fbadyblog.com%252Ff2a019a3e59e374%26relation%3Dparent.parent&container_width=420&href=http%3A%2F%2Fbadyblog.com%2Fnastrojka-debian-s-nulya-apachephpmysql%2F&locale=en_US&sdk=joey&send=false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://badyblog.com/nastrojka-debian-s-nulya-apachephpmysql/
+IDList=
+IconFile=http://badyblog.com/favicon.ico
+IconIndex=1

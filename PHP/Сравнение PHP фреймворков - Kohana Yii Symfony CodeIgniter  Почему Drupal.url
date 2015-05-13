@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://whydrupal.ru/sravnenie-php-freimvorkov-kohana-yii-symfony-codeigniter
+[DOC_easyXDM_default9537_provider]
+BASEURL=https://ulogin.ru/drop.html?id=0&redirect_uri=http%3A%2F%2Fwhydrupal.ru%2Fulogin%3Fdestination%3Dnode%2F92&callback=&providers=odnoklassniki,mailru,livejournal,openid&fields=first_name,last_name,email,photo&optional=&othprov=vkontakte,facebook,twitter,google,yandex&protocol=http&host=whydrupal.ru&lang=ru&verify=&sort=relevant&xdm_e=http%3A%2F%2Fwhydrupal.ru&xdm_c=default9537&xdm_p=1
+ORIGURL=https://ulogin.ru/drop.html?id=0&redirect_uri=http%3A%2F%2Fwhydrupal.ru%2Fulogin%3Fdestination%3Dnode%2F92&callback=&providers=odnoklassniki,mailru,livejournal,openid&fields=first_name,last_name,email,photo&optional=&othprov=vkontakte,facebook,twitter,google,yandex&protocol=http&host=whydrupal.ru&lang=ru&verify=&sort=relevant&xdm_e=http%3A%2F%2Fwhydrupal.ru&xdm_c=default9537&xdm_p=1
+[DOC_easyXDM_default9536_provider]
+BASEURL=https://ulogin.ru/stats.html?r=61837&type=small&xdm_e=http%3A%2F%2Fwhydrupal.ru&xdm_c=default9536&xdm_p=1
+ORIGURL=https://ulogin.ru/stats.html?r=61837&type=small&xdm_e=http%3A%2F%2Fwhydrupal.ru&xdm_c=default9536&xdm_p=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://whydrupal.ru/sravnenie-php-freimvorkov-kohana-yii-symfony-codeigniter
+IDList=
+IconFile=http://whydrupal.ru/themes/_front/favicon.ico
+IconIndex=1

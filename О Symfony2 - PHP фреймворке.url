@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://www.osipov.lv/symfony2/
+[DOC_fb_xdm_frame_http]
+BASEURL=http://static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41
+ORIGURL=http://static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41#channel=f2b691b8bf18496&origin=http%3A%2F%2Fwww.osipov.lv
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter/rFG58m7xAig.js?version=41#channel=f2b691b8bf18496&origin=http%3A%2F%2Fwww.osipov.lv
+[DOC#213]
+BASEURL=https://www.facebook.com/plugins/like.php?action=like&app_id=256756581012732&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FrFG58m7xAig.js%3Fversion%3D41%23cb%3Df1cd6fd01453442%26domain%3Dwww.osipov.lv%26origin%3Dhttp%253A%252F%252Fwww.osipov.lv%252Ff2b691b8bf18496%26relation%3Dparent.parent&container_width=0&href=http%3A%2F%2Fwww.osipov.lv%2Fsymfony2%2F&layout=button_count&locale=en_US&sdk=joey&send=true&show_faces=true&width=150
+ORIGURL=http://www.facebook.com/plugins/like.php?action=like&app_id=256756581012732&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FrFG58m7xAig.js%3Fversion%3D41%23cb%3Df1cd6fd01453442%26domain%3Dwww.osipov.lv%26origin%3Dhttp%253A%252F%252Fwww.osipov.lv%252Ff2b691b8bf18496%26relation%3Dparent.parent&container_width=0&href=http%3A%2F%2Fwww.osipov.lv%2Fsymfony2%2F&layout=button_count&locale=en_US&sdk=joey&send=true&show_faces=true&width=150
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.osipov.lv/symfony2/
+IDList=

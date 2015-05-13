@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://virtualboxes.org/images/debian/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://virtualboxes.org/images/debian/
+IDList=
+IconFile=http://0.gravatar.com/blavatar/a249c020d1f715797c3c32e2b6a82415?s=16
+IconIndex=1

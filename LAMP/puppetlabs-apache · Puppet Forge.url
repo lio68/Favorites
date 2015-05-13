@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://forge.puppetlabs.com/puppetlabs/apache
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://forge.puppetlabs.com/puppetlabs/apache
+IDList=
+IconFile=https://forge.puppetlabs.com/assets/591fc16/images/favicon.ico
+IconIndex=1

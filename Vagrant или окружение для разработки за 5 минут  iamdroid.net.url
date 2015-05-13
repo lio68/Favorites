@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://iamdroid.net/blog/vagrant
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://iamdroid.net/blog/vagrant
+IDList=
+IconFile=http://iamdroid.net/sites/iamdroid.net/themes/iamdroid/favicon.ico
+IconIndex=1

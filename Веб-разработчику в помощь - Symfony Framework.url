@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://gv0zdik.livejournal.com/12117.html
+[DOC_ljtime_iframe_AdFox_iframe_905173]
+BASEURL=http://l-stat.livejournal.net/discovery/times?lang=ru_RU&is_paid=false&country=RU&v=1425047184
+ORIGURL=
+[DOC_green_ifr_1425266865957]
+BASEURL=http://gv0zdik.livejournal.com/12117.html
+ORIGURL=javascript:document.write(window["contents"]);document.close();
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://gv0zdik.livejournal.com/12117.html
+IDList=

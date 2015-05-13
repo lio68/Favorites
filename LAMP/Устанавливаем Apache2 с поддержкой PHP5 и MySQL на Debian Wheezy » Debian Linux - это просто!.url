@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://debian.tom.ru/ustanavlivaem-apache2-s-podderzhkoy-php5-i-mysql-na-debian-wheezy/
+[DOC#454]
+BASEURL=http://stats.g.doubleclick.net/u/post_iframe_dc.html
+ORIGURL=http://stats.g.doubleclick.net/u/post_iframe_dc.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://debian.tom.ru/ustanavlivaem-apache2-s-podderzhkoy-php5-i-mysql-na-debian-wheezy/
+IDList=

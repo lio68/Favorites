@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.pontin.ru/technical/linux/creation-of-a-server-on-debian
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.pontin.ru/technical/linux/creation-of-a-server-on-debian
+IDList=
+IconFile=http://www.pontin.ru/templates/yoo_peak/favicon.ico
+IconIndex=1

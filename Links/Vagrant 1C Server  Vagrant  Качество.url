@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.silverbulleters.org/vagrant-1c-server/
+[DOC#45]
+BASEURL=http://www.silverbulleters.org/vagrant-1c-server/
+ORIGURL=javascript:false
+[DOC#47]
+BASEURL=http://www.silverbulleters.org/vagrant-1c-server/
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.silverbulleters.org/vagrant-1c-server/
+IDList=
+IconFile=http://www.silverbulleters.org/favicon.ico
+IconIndex=1

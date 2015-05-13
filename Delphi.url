@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://iantonov.me/category/delphi
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://iantonov.me/category/delphi
+IDList=
+IconFile=http://iantonov.me/application/maxsite/templates/max-bet/images/favicons/favicon.ico
+IconIndex=1

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://symfony.com/legacy/doc/jobeet/1_4/ru/01?orm=Doctrine
+[DOC#1041]
+BASEURL=http://symfony.com/legacy/doc/jobeet/1_4/ru/01?orm=Doctrine
+ORIGURL=javascript:(function(){var d=document;d.open();d.write('<img src="http://tracker.emailretargeting.com/criteohandler?cb=8934355757&ctoUID=93f7075d-2e60-42e2-af22-75e65324a7a5&a=14086&v=3.2.0&p0=e%253dvh&p1=e%253dexd%2526ref%253dhttp%25253A%25252F%25252Fyandex.ru&p2=e%253ddis">');d.close();setTimeout(function(){d.open();d.write('');d.close();},1000);})();
+[DOC#1043]
+BASEURL=http://symfony.com/legacy/doc/jobeet/1_4/ru/01?orm=Doctrine
+ORIGURL=javascript:(function(){var d=document;d.open();d.write('<img src="http://tracker.emailretargeting.com/criteohandler?cb=8934355757&ctoUID=93f7075d-2e60-42e2-af22-75e65324a7a5&a=14086&v=3.2.0&p0=e%253dvh&p1=e%253dexd%2526ref%253dhttp%25253A%25252F%25252Fyandex.ru&p2=e%253ddis">');d.close();setTimeout(function(){d.open();d.write('');d.close();},1000);})();
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://symfony.com/legacy/doc/jobeet/1_4/ru/01?orm=Doctrine
+IDList=
+IconFile=http://symfony.com/favicon.ico
+IconIndex=1

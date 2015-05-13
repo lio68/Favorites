@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D1%82
+[DOC_pyv-iframe-search]
+BASEURL=http://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D1%82
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D1%82
+IDList=
+IconFile=http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico
+IconIndex=1

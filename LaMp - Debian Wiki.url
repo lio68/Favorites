@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://wiki.debian.org/LaMp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://wiki.debian.org/LaMp
+IDList=
+IconFile=https://wiki.debian.org/htdocs/favicon.ico
+IconIndex=1

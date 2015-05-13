@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://romach.ru/?p=62
+[DOC_easyXDM_default7605_provider]
+BASEURL=https://ulogin.ru/drop.html?id=0&redirect_uri=http%3A%2F%2Fromach.ru%2F%3Fp%3D62%23commentform&callback=&providers=odnoklassniki,mailru,yandex,openid,flickr,lastfm,linkedin,liveid,soundcloud,steam,uid,webmoney,youtube,foursquare,tumblr,googleplus,dudu,vimeo,instagram,wargaming&fields=first_name,email&optional=phone,photo&othprov=vkontakte,livejournal,google,twitter,facebook&protocol=http&host=romach.ru&lang=ru&verify=&sort=relevant&xdm_e=http%3A%2F%2Fromach.ru&xdm_c=default7605&xdm_p=1
+ORIGURL=https://ulogin.ru/drop.html?id=0&redirect_uri=http%3A%2F%2Fromach.ru%2F%3Fp%3D62%23commentform&callback=&providers=odnoklassniki,mailru,yandex,openid,flickr,lastfm,linkedin,liveid,soundcloud,steam,uid,webmoney,youtube,foursquare,tumblr,googleplus,dudu,vimeo,instagram,wargaming&fields=first_name,email&optional=phone,photo&othprov=vkontakte,livejournal,google,twitter,facebook&protocol=http&host=romach.ru&lang=ru&verify=&sort=relevant&xdm_e=http%3A%2F%2Fromach.ru&xdm_c=default7605&xdm_p=1
+[DOC_easyXDM_default7604_provider]
+BASEURL=https://ulogin.ru/stats.html?r=15425&type=panel&xdm_e=http%3A%2F%2Fromach.ru&xdm_c=default7604&xdm_p=1
+ORIGURL=https://ulogin.ru/stats.html?r=15425&type=panel&xdm_e=http%3A%2F%2Fromach.ru&xdm_c=default7604&xdm_p=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://romach.ru/?p=62
+IDList=
